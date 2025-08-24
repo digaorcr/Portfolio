@@ -34,9 +34,3 @@ Download my latest résumés here:
 
 ---
 
-
-## 📄 Résumé  
-Download my latest résumé here:  
-👉 [Rodrigo_Rodrigues_Resume.pdf](./Rodrigo_Rodrigues_Resume.pdf)
-
----
