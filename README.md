@@ -17,28 +17,23 @@ My goal is to leverage **data-driven insights** to support decision-making, impr
 ### Predicting SpaceX Falcon 9 First-Stage Landing Success
 - **Abstract:** Built a machine learning pipeline to predict whether the Falcon 9 rocket first stage would land successfully. Combined **API data collection, web scraping, SQL queries, EDA, and multiple ML models**.  
 - **GitHub Repo:** [View Source Code](https://github.com/digaorcr/Capstone)  
+- **Capstone Report (PDF):** [Download PDF](https://github.com/digaorcr/Portfolio/blob/main/ds-capstone-RodrigoRodrigues.pdf)  
 - **Key Findings:**  
   - Launch success rates vary by site and booster version.  
   - Payload ranges between 2.5–5.5 tons had the highest success probability.  
   - Decision Tree achieved the best accuracy (**94.4%**).  
 - **Demo:**  
-  ![Dashboard Screenshot](https://raw.githubusercontent.com/digaorcr/Capstone/main/screenshot_dashboard.png)  
+  ![Dashboard Screenshot](https://github.com/digaorcr/Capstone/blob/main/plotly1.png)  
 
 ---
 
-## 📊 Other Projects  
-
-### Florida Unemployment Forecasting  
-- **Abstract:** Designed **time series models (ARIMA & Prophet)** to forecast unemployment in Florida. Improved forecasting accuracy by 15%.  
-- [View Notebook](https://github.com/digaorcr/Portfolio/tree/main/Unemployment-Forecast)
-
----
-
-### Chicago Crime & Census SQL Analysis  
-- **Abstract:** Used advanced **SQL queries** to analyze correlations between census data and crime rates in Chicago.  
-- [View Notebook](https://github.com/digaorcr/Portfolio/tree/main/Chicago-Crime-SQL)
+## 📄 Résumé  
+Download my latest résumés here:  
+👉 [Resume – WebBeds](https://github.com/digaorcr/Portfolio/blob/main/resume_webbeds_rodrigo.pdf)  
+👉 [Resume – InCharge](https://github.com/digaorcr/Portfolio/blob/main/resume_incharge_rodrigo.pdf)  
 
 ---
+
 
 ## 📄 Résumé  
 Download my latest résumé here:  
